@@ -38,3 +38,9 @@ This repository contains four distinct methods to calculate the nth Fibonacci nu
 ## Purpose
 
 This project is ideal for understanding algorithmic trade-offs between time complexity, space complexity, and code simplicity.
+
+---
+
+License 📜
+
+This project is open source under the MIT License.
